@@ -1,0 +1,21 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question_text": "Who is captain of Indian Cricket team",
+      "option_1": "M.S Dhoni",
+      "option_2": "Virat Kohli",
+      "option_3": "Rohit Sharma",
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question_text": "When is the last time India Won the Cricket World Cup",
+      "option_1": 2009,
+      "option_2": 2010,
+      "option_3": 2011,
+      "option_4": 2012,
+      "answer": 3
+    }
+  ]
+}
